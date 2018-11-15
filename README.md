@@ -3,9 +3,9 @@
 ### This Repo Includes:
 
 1. West Nile Virus Project
-    -Notebook contains code for the project
+     - Notebook contains code for the project
 2. Data
-    -Folder containing the data required to run code
+     - Folder containing the data required to run code
 
 ### Objective
 Time series data analysis are most commonly seen when monitoring industrial processes or tracking corporate business metrics. The analysis accounts for any correlation, trend or seasonal variation in the data points that were taken over time. I will be discussing one approach and method on how to process the data and make predictions. To demonstrate time series analysis, I did a project on the West Nile Virus dataset taken from Kaggle.
